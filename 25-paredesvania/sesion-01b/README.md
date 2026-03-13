@@ -1,17 +1,18 @@
 # sesion-01b 13.03
 
 ## Palabras Bonitas
-- Resistencia (R): Las resistencias son componentes pasivos que limitan el flujo de corriente y regulan el voltaje en un circuito, midiéndose en ohmios.
-- Flujo
-- Potencial
-- Corriente (I) - intencidad
-- Poder
-- Voltaje (V)
-- Energía
-- Materia: - Carbón
-           - Silicio
-           - Cobre
-           - Cable: Nodo/Punto
++ Resistencia (R): Las resistencias son componentes pasivos que limitan el flujo de corriente y regulan el voltaje en un circuito, midiéndose en ohmios.
++ Flujo
++ Potencial
++ Corriente (I) - intencidad
++ Poder
++ Voltaje (V)
++ Energía
++ Materia:
+  - Carbón
+  - Silicio
+  - Cobre
+  - Cable: Nodo/Punto
 
 - **Mitchel Resnick** (nacido el 12 de junio de 1956) **según Wikipedia** es un informático estadounidense. Es profesor LEGO Papert de Investigación del Aprendizaje en el Media Lab del Instituto Tecnológico de Massachusetts (MIT) y fundador de Scratch .
 
