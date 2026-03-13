@@ -1,5 +1,6 @@
 # sesion-01a
-**Apuntes clase 100326**
+
+## Apuntes clase 100326**
 
 - Tejido y proceso humano. Bordar y tejer cables
 
