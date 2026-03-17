@@ -62,3 +62,7 @@ Y la mejor parte, fue que se logró encender: (ver video)
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPUdY8tZ3k6NU9tu5oLw3sdZMID-MxhRJpRQ&s" width="200">
 </a>
 
+Y eso fue todo por la clase.
+Gracias por ver!
+
+## “The internet’s own boy”
