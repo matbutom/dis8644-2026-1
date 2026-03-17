@@ -29,18 +29,26 @@ Existen circuitos paralelos, circuito cerrado, circuito abierto, circuito de ser
 
 ##### Materiales 
 
-**- Conductores **
+** Conductores** 
 Hierro        
 Plata         
 Oro           
 Cobre         
-Aluminio      
+Aluminio   
 
 **Aislantes**
+
 Vidrio
+
 Tierra
+
 Plastico
+
 Madera
+
 Cuero.
-                  
+
+             
+
+     
                    
