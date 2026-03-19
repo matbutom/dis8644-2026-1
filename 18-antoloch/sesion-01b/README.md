@@ -1,5 +1,4 @@
 # sesion-01b
-# sesion-01b
 #  Introducción a Circuitos y Herramientas Digitales
 
 Apuntes de clase sobre conceptos básicos de electricidad, uso de herramientas digitales y uso de GitHub.
