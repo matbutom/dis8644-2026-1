@@ -32,6 +32,12 @@ Al hacer un circuito el cable negativo debe ir al lado de la resistencia y no en
 - Vcc: voltaje de alimentación/ corriente continua (Estos cables
 - Gnd: Ground/Tierrra
 
+- Algunas cositas hechas en clase:
+
+![Primera prueba de circuito](./imagenes/clase.jpg)
+
+![Circuito paralelepipedo](./imagenes/circuito-paralelo.jpg)
+
 ---
 
 ## Ejercicios:
@@ -95,3 +101,14 @@ Proceso del encargo:
 
 
 Ahora dejaré fotos del proceso tanto en el Lid como en mi casa 	＼(≧▽≦)／
+
+
+![Primera vez haciendo el encargo](./imagenes/intento-de-ejercicio.jpg)
+
+![Progreso](./imagenes/solucion-dos.jpg)
+
+![Más progreso](./imagenes/solucion-tres.jpg)
+
+![En calma y en casa](./imagenes/en-casa.jpg)
+
+![Ultima solucion de circuitos](./imagenes/en-casa-dos.jpg)
