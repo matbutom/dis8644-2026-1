@@ -142,6 +142,25 @@ Circuito Completo:
 
 ------
 
-Kraftwerk
+***Kraftwerk***
+
+Radio-Aktivität ( 1975)
+
++ La primera vez que se utilizaron exclusivamente instrumentos electrónicos
++ Portad: Volksempfänger, unos de los instrumentos mas ocupados en la propaganda nazi 
++ Dentro de cada album venia un sticker con el símbolo de radiactividad 
+
+
+Tema central sobre la radiactividad, la energía nuclear y la radio- medios de difución, mezclando ciencia ( energia nuclear), tecnología y el contexto histórico de la época. El disco juega con el doble significado de la palabra “radio”: por un lado la radioactividad nuclear y por otro la radio como medio de comunicación, mezclando tambieen caracteres de Alemania y EE UU.
+
+El álbum hace referencia a distintos procesos vinculados al desarrollo de la energía nuclear asociados a potencias como Estados Unidos y Alemania(protagonistas en la investigación y uso de esta tecnología en elsiglo XX). En las canciones aparecen referencias a científicos y acontecimientos relacionados con estos avances y como estos defendian estos elementos para el "avance de la sociedad" a toda costa.
+
+El disco utiliza recursos sonoros que evocan la tecnología de la época. Ejemplo, la canción Radioaktivität comienza con sonidos que recuerdan al código Morse, un sistema de comunicación utilizado en esta epoca. 
+
+Musicalmente, el álbum mezcla sonidos electrónicos tranquilos para despues empezar a mezclarse con sonidos de interferencias, estática, pulsos eléctricos y voces filtradas, creando una atmósfera alarmante, transmisiones de radio o corrientes eléctricas suenan en canciones como Nachrichten o Sendepause reacionada a los medios y su influencia en la poblacion. A veces la música se mantiene calmada y mecánica, pero de repente es interrumpida por sonidos más intensos o eléctricos, como si fueran señales o descargas que atraviesan la transmisión.
+
+***Cancion favorita: Ohm Sweet Ohm.***
+
+Cancion que empieza con voces repientod el titul, el cual es una referencia a diferentes cancioens con este mismo dicho, que representa, el cuidado del hogar y la felcidad de llegar denuevo a el, siendo ironico, representando la destruccion de energia nucliar, tambien se hacer refencia a la medida que se ocupan para la energia que es el OHM, la melodia con tonos tranqilos que van aumentando su ritmo hasta que van desapareciendo al rrerminar el album. 
 
 LCD Soundsystem.
