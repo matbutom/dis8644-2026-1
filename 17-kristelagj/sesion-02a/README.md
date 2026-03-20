@@ -106,7 +106,7 @@ Después de eso, yo intente hacer por mi parte los circuitos vistos en clases y 
 Ejercicio 1
 
 Como mencione, a pesar de haberlo realizado, me costó entenderlo nuevamente
-1. Si quiero que la luz se encienda debo procurar que ambos lados (+ y -) estén conectados en el lugar que corresponde ósea ++ y - -
+1. Si quiero que la luz se encienda debo procurar que ambos lados (+ y -) estén conectados en el lugar que corresponde ósea ++ y - - (por esto comence a realizar la tabla de posiciones de las resistencias, si no al sacar y volver a su lugar me confundiria)
 2. La resistencia limita la corriente para no quemar el led
 3. Todo debe ir como se presenta el el esquemático, por ejemplo si a D1 le sigue una resistencia de 1k colocarla después de ello
 4. El nodo es un punto donde se conectan 2 o más componentes en el circuito
